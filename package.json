@@ -1,0 +1,23 @@
+{
+  "name": "es-source-practice",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "description": "手写ecmascript源码",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "es",
+    "ecmascript",
+    "source",
+    "源码",
+    "手写es源码"
+  ],
+  "author": "liucan",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.22",
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
